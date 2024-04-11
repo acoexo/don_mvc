@@ -1,0 +1,15 @@
+{
+    "name": "usuar/don_plugin",
+    "autoload": {
+        "psr-4": {
+            "Usuar\\DonPlugin\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "acoexo",
+            "email": "acseoyo04@gmail.com"
+        }
+    ],
+    "require": {}
+}
